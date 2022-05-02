@@ -48,8 +48,8 @@ class Dinosaur{
                               'Timeline: ' + this.timeline + '\n' + 
                               'Diffusion: ' + this.diffusion + '\n'+  
                               'diet: ' + diet + '\n' + 
-                              'size: ' + this.maxSize() + '\n' + 
-                              'Weight: ' + this.maxWeight();
+                              'size: ' + this.maxSize() + ' m' + '\n' + 
+                              'Weight: ' + this.maxWeight() + ' t';
         return dinoString;
     }
 
